@@ -61,6 +61,11 @@ li{
     padding: 30px;
 }
 
+.contact{
+    height: 200px;
+    width: 200px;
+}
+
 @media (min-width: 992px) { 
     .navbar{
         height: 75px;
