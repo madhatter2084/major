@@ -8,7 +8,7 @@
 }
 
 .nav-link{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 
 body{
@@ -20,7 +20,8 @@ body{
 p{
     background-color: #343a40;
     margin: 20px auto;
-    color: #c3c3c3;
+    color: white;
+    font-family: 'Dancing Script', cursive;
 }
 
 .card{
@@ -36,6 +37,21 @@ p{
     margin: 20px auto;
     text-align: center;
     background-color: #343a40;
-    color: #c3c3c3;
-    
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    border-color: #343a40;
+}
+
+.titleText{
+    margin: 0 auto;
+    padding: 15px auto;
+}
+
+h5{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+
+.row{
+    padding-top: 30px;
 }
