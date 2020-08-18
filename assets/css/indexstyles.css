@@ -1,10 +1,6 @@
 .container{
     margin: 20px auto;
     /* border-style: solid; */
-} 
-
-.navbar{
-    height: 75px;
 }
 
 .navbar-brand{
@@ -64,3 +60,9 @@ p{
 li{
     padding: 30px;
 }
+
+@media (min-width: 992px) { 
+    .navbar{
+        height: 75px;
+    }
+ }
