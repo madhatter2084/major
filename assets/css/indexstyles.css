@@ -47,11 +47,20 @@ p{
     padding: 15px auto;
 }
 
+h3{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+
 h5{
     color: white;
     font-family: 'Dancing Script', cursive;
 }
 
-.row{
-    padding-top: 30px;
+li{
+    padding: 30px;
 }
+
+/* .secondNavItem{
+    padding-top: 30px;
+} */
