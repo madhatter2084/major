@@ -3,6 +3,10 @@
     /* border-style: solid; */
 } 
 
+.navbar{
+    height: 75px;
+}
+
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
 }
@@ -60,7 +64,3 @@ p{
 li{
     padding: 30px;
 }
-
-/* .secondNavItem{
-    padding-top: 30px;
-} */
