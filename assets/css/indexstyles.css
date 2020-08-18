@@ -8,7 +8,7 @@
 }
 
 .nav-link{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
 }
 
 body{
@@ -21,7 +21,7 @@ p{
     background-color: #343a40;
     margin: 20px auto;
     color: white;
-    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Domine', serif; */
 }
 
 .card{
@@ -38,7 +38,7 @@ p{
     text-align: center;
     background-color: #343a40;
     color: white;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
     border-color: #343a40;
 }
 
@@ -47,14 +47,14 @@ p{
     padding: 15px auto;
 }
 
-h3{
+.cursive{
     color: white;
     font-family: 'Dancing Script', cursive;
 }
 
-h5{
+.script{
     color: white;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
 }
 
 li{
