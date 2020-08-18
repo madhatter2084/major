@@ -66,6 +66,12 @@ li{
     width: 200px;
 }
 
+.center{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
 @media (min-width: 992px) { 
     .navbar{
         height: 75px;
