@@ -1,6 +1,27 @@
-a simple site with links to a "contact me" and "portfolio" page.
+Simple profile page with links to the following:
 
-nav bar links to index.html, portfolio.html, and contact.html with disabled links for active page
+    -about me page with info about my professional career
+    -portfolio page with links to deployed pages and github account
+    -contact page with links to github, linkedin, and personal email
+    -resume tab with image of resume as well as link to pdf
 
-cards have links and images for github, gmail, and linkedin profiles 
+Language and proficiency used:
+
+    -html
+    -css
+    -jquery
+    -bootstrap
+
+Deployed page can be found at https://madhatter2084.github.io/major/index.html
+GitHub link can be found at https://github.com/madhatter2084/major
+
+Images:
+
+
+
+
+
+
+
+
 
