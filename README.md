@@ -17,7 +17,7 @@ GitHub link can be found at https://github.com/madhatter2084/major
 
 Images:
 
-
+assets/images/ss1.png
 
 
 
