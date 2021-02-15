@@ -3,6 +3,10 @@
     /* border-style: solid; */
 }
 
+.navbar{
+    z-index: 5;
+}
+
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
 }
@@ -78,6 +82,20 @@ hr{
 	box-shadow: 0 10px 10px -10px #8c8b8b inset;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .content{
+      z-index: 1;
+  }
+  
+  .sticky + .content {
+    padding-top: 62px;
+  }
+
 @media (min-width: 767px) { 
     .navbar{
         height: 75px;
@@ -87,5 +105,5 @@ hr{
         width: 100%;
         display: inline-block;
         text-align: center;
-    
+    }
 }
